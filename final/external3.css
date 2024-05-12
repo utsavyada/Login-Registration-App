@@ -1,0 +1,24 @@
+body{
+    background: rgb(214, 155, 134);
+    text-align: center;
+    justify-content: center;
+}
+button {
+    background: #555;
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+}
+button:hover {
+    background: red;
+    opacity: 7;
+}
+a{
+    text-decoration: none;
+    color:chartreuse;
+}
+a:hover{
+    color:mediumblue;
+}
